@@ -1,0 +1,13 @@
+---
+"133:0":
+- effect: 1
+  amplifier: 10
+  duration: 10
+  visible: true
+  particle: heart
+- effect: 8
+  amplifier: 5
+  duration: 10
+  visible: false
+  particle: heart
+...

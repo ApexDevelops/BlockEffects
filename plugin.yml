@@ -1,0 +1,5 @@
+name: BlockEffects
+author: iiInfinityHD
+version: 1.0.5
+api: 2.0.0
+main: iiInfinityHD\BlockEffects\BlockEffects
